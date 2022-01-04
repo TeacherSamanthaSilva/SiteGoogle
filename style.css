@@ -1,7 +1,7 @@
 /* Geral */
 
 body {
-    font-family: arial, sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-size: 13px;
     margin: 0;
   }
@@ -30,4 +30,8 @@ body {
   
   .nav-list li a:hover {
     text-decoration: underline;
+  }
+
+  #social-bar {
+    text-align: right;
   }
